@@ -104,7 +104,7 @@
             "type": "WriteCircleAction",
             "tag": "circle0",
             "col": "nextId",
-            "total_rows": 200000,
+            "total_rows": 20000,
             "depends": [15]
         },
         {
@@ -140,14 +140,14 @@
             "type": "WalkThroughAction",
             "tag": "circle0",
             "col": "nextId",
-            "total_rows": 200000,
+            "total_rows": 20000,
             "depends": [22]
         },
         {
             "type": "WriteCircleAction",
             "tag": "circle1",
             "col": "nextId",
-            "total_rows": 200000,
+            "total_rows": 20000,
             "depends": [23]
         },
         {
@@ -183,14 +183,14 @@
             "type": "WalkThroughAction",
             "tag": "circle1",
             "col": "nextId",
-            "total_rows": 200000,
+            "total_rows": 20000,
             "depends": [30]
         },
         {
             "type": "WriteCircleAction",
             "tag": "circle2",
             "col": "nextId",
-            "total_rows": 200000,
+            "total_rows": 20000,
             "depends": [31]
         },
         {
@@ -226,14 +226,14 @@
             "type": "WalkThroughAction",
             "tag": "circle2",
             "col": "nextId",
-            "total_rows": 200000,
+            "total_rows": 20000,
             "depends": [38]
         },
         {
             "type": "WriteCircleAction",
             "tag": "circle3",
             "col": "nextId",
-            "total_rows": 200000,
+            "total_rows": 20000,
             "depends": [39]
         },
         {
@@ -269,7 +269,7 @@
             "type": "WalkThroughAction",
             "tag": "circle3",
             "col": "nextId",
-            "total_rows": 200000,
+            "total_rows": 20000,
             "depends": [46]
         },
         {
