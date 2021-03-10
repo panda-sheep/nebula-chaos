@@ -56,19 +56,19 @@
         {
             "type": "AddZoneAction",
             "zone_name": "zone0",
-            "host_list": "127.0.0.1:7679",
+            "host_list": "192.168.8.210:11779",
             "depends": [9]
         },
         {
             "type": "AddZoneAction",
             "zone_name": "zone1",
-            "host_list": "127.0.0.1:7579",
+            "host_list": "192.168.8.211:11779",
             "depends": [10]
         },
         {
             "type": "AddZoneAction",
             "zone_name": "zone2",
-            "host_list": "127.0.0.1:7479",
+            "host_list": "192.168.8.212:11779",
             "depends": [11]
         },
         {
@@ -138,19 +138,19 @@
         {
             "type": "ExpandZoneAction",
             "zone_name": "zone0",
-            "host": "127.0.0.1:7379",
+            "host": "192.168.8.210:11889",
             "depends": [21]
         },
         {
             "type": "ExpandZoneAction",
             "zone_name": "zone1",
-            "host": "127.0.0.1:7279",
+            "host": "192.168.8.211:11889",
             "depends": [23]
         },
         {
             "type": "ExpandZoneAction",
             "zone_name": "zone2",
-            "host": "127.0.0.1:7179",
+            "host": "192.168.8.212:11889",
             "depends": [24]
         },
         {
@@ -194,19 +194,19 @@
         {
             "type": "ShrinkZoneAction",
             "zone_name": "zone0",
-            "host": "127.0.0.1:7379",
+            "host": "192.168.8.210:11889",
             "depends": [31]
         },
         {
             "type": "ShrinkZoneAction",
             "zone_name": "zone1",
-            "host": "127.0.0.1:7279",
+            "host": "192.168.8.211:11889",
             "depends": [33]
         },
         {
             "type": "ShrinkZoneAction",
             "zone_name": "zone2",
-            "host": "127.0.0.1:7179",
+            "host": "192.168.8.212:11889",
             "depends": [34]
         },
         {

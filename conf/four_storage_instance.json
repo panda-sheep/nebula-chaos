@@ -1,0 +1,47 @@
+{
+    "email": "doodle.wang@vesoft.com,13436847675@163.com,pandasheep.yue@vesoft.com",
+    "instances": [
+        {
+            "host": "192.168.8.210",
+            "install_dir": "/home/pandasheep.yue/chaos_pro/",
+            "conf_dir": "/home/pandasheep.yue/chaos_pro/etc/nebula-graphd.conf",
+            "type": "graphd",
+            "user": "pandasheep.yue"
+        },
+        {
+            "host": "192.168.8.210",
+            "install_dir": "/home/pandasheep.yue/chaos_pro/",
+            "conf_dir": "/home/pandasheep.yue/chaos_pro/etc/nebula-metad.conf",
+            "type": "metad",
+            "user": "pandasheep.yue"
+        },
+        {
+            "host": "192.168.8.210",
+            "install_dir": "/home/pandasheep.yue/chaos_pro/",
+            "conf_dir": "/home/pandasheep.yue/chaos_pro/etc/nebula-storaged-1.conf",
+            "type": "storaged",
+            "user": "pandasheep.yue"
+        },
+        {
+            "host": "192.168.8.211",
+            "install_dir": "/home/pandasheep.yue/chaos_pro/",
+            "conf_dir": "/home/pandasheep.yue/chaos_pro/etc/nebula-storaged-1.conf",
+            "type": "storaged",
+            "user": "pandasheep.yue"
+        },
+        {
+            "host": "192.168.8.212",
+            "install_dir": "/home/pandasheep.yue/chaos_pro/",
+            "conf_dir": "/home/pandasheep.yue/chaos_pro/etc/nebula-storaged-1.conf",
+            "type": "storaged",
+            "user": "pandasheep.yue"
+        },
+        {
+            "host": "192.168.8.212",
+            "install_dir": "/home/pandasheep.yue/chaos_pro/",
+            "conf_dir": "/home/pandasheep.yue/chaos_pro/etc/nebula-storaged-2.conf",
+            "type": "storaged",
+            "user": "pandasheep.yue"
+        }
+    ]
+}
